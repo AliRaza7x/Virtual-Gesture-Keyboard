@@ -9,12 +9,12 @@ A real-time virtual keyboard controlled by hand gestures using computer vision. 
 - Detects hand using webcam
 - Gesture-based key press (pinch with index + middle finger)
 - Displays and types live text
-- Works in any focused input (e.g., Google, YouTube)
+- Works in any focused input (e.g., Google, YouTube, Gemini)
 
 ---
 
 ## 📦 Dependencies
-- Python 3.10+
+- Python 3.10
 - OpenCV
 - MediaPipe
 - cvzone
